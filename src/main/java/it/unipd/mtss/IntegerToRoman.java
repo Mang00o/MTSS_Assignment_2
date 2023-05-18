@@ -2,7 +2,7 @@
 // Matteo Stocco 2000552
 // Alessandro Carraro 2000548
 ////////////////////////////////////////////////////////////////////
-package it.unipd.mtss;
+package main.java.it.unipd.mtss;
 
 import java.util.Arrays;
 
