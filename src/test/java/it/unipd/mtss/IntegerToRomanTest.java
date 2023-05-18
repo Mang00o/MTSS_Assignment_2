@@ -2,7 +2,7 @@
 // Matteo Stocco 2000552
 // Alessandro Carraro 2000548
 ////////////////////////////////////////////////////////////////////
-package test.java.it.unipd.mtss;
+package it.unipd.mtss;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
